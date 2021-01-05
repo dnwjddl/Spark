@@ -1,0 +1,6 @@
+[1018/231456.513:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1020/145123.271:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1020/174028.401:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\woojung\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0437af43-02ad-427f-9a5f-2bf570dd70c5: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1020/175113.921:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1106/130336.558:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1114/165350.177:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
